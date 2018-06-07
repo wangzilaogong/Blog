@@ -2,9 +2,9 @@
 以前爱折腾，现在还是安分写东西吧。
 ### 博客分类
 博客主要划分为下面几大类别：
-* [网络基础]()
-* [javascript基础]()
-* [html&css基础]()
+* [网络基础](https://github.com/wangzilaogong/Blog/projects/3)
+* [javascript基础](https://github.com/wangzilaogong/Blog/projects/1)
+* [html&css基础](https://github.com/wangzilaogong/Blog/projects/2)
 * [区块链基础]()
 * [数据结构&算法基础]()
 
@@ -30,7 +30,8 @@
 
 **4、ES6**
 
-- [Storm实战—基本概念]()
+- [【简明ES6】1.let&const](https://github.com/wangzilaogong/Blog/issues/15)
+- [【简明ES6】2.变量的解构和赋值](https://github.com/wangzilaogong/Blog/issues/16)
 
 
 **5、Node**
