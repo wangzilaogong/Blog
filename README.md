@@ -32,6 +32,7 @@
 
 - [【简明ES6】1.let&const](https://github.com/wangzilaogong/Blog/issues/15)
 - [【简明ES6】2.变量的解构和赋值](https://github.com/wangzilaogong/Blog/issues/16)
+- [【简明ES6】3.字符串的扩展](https://github.com/wangzilaogong/Blog/issues/17)
 
 
 **5、Node**
