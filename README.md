@@ -30,10 +30,12 @@
 
 **4、ES6**
 
-- [【简明ES6】1.let&const](https://github.com/wangzilaogong/Blog/issues/15)
-- [【简明ES6】2.变量的解构和赋值](https://github.com/wangzilaogong/Blog/issues/16)
-- [【简明ES6】3.字符串的扩展](https://github.com/wangzilaogong/Blog/issues/17)
-- [【简明ES6】4.数字的扩展](https://github.com/wangzilaogong/Blog/issues/18)
+- [【简明ES6】1. let&const](https://github.com/wangzilaogong/Blog/issues/15)
+- [【简明ES6】2. 变量的解构和赋值](https://github.com/wangzilaogong/Blog/issues/16)
+- [【简明ES6】3. 字符串的扩展](https://github.com/wangzilaogong/Blog/issues/17)
+- [【简明ES6】4. 数字的扩展](https://github.com/wangzilaogong/Blog/issues/18)
+- [【简明ES6】5. 函数的扩展](https://github.com/wangzilaogong/Blog/issues/19)
+
 
 
 **5、Node**
