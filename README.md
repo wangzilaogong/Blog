@@ -44,6 +44,8 @@
 - [【简明ES6】6. 数组的扩展](https://github.com/wangzilaogong/Blog/issues/20)
 - [【简明ES6】7. 对象的扩展](https://github.com/wangzilaogong/Blog/issues/21)
 - [【简明ES6】8. Class基础知识](https://github.com/wangzilaogong/Blog/issues/22)
+- [【简明ES6】9. Promse基本使用](https://github.com/wangzilaogong/Blog/issues/23)
+
 
 **5、Node**
 
