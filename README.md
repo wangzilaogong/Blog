@@ -34,7 +34,7 @@
 **3、javascript**
 
 
-**4、ES6**（writing～）
+**4、ES6**（done）
 
 - [【简明ES6】1. let&const](https://github.com/wangzilaogong/Blog/issues/15)
 - [【简明ES6】2. 变量的解构和赋值](https://github.com/wangzilaogong/Blog/issues/16)
@@ -47,8 +47,9 @@
 - [【简明ES6】9. Promse基本使用](https://github.com/wangzilaogong/Blog/issues/23)
 
 
-**5、Node**
+**5、Node**(writing)
 
+- [Assert - 断言]()
 - [Buffer - 缓冲器]()
 - [child——process - 子进程]()
 - [cluster - 集群]()
