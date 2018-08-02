@@ -58,7 +58,7 @@
 - [dgram - 数据报]()
 - [dns - 域名服务器]()
 - [ Error - 异常]()
-- [events - 事件]()
+- [events - 事件1](https://github.com/wangzilaogong/Blog/issues/24)
 - [fs -文件系统]()
 - [global - 全局变量]()
 - [http]()
