@@ -47,7 +47,7 @@
 - [【简明ES6】9. Promse基本使用](https://github.com/wangzilaogong/Blog/issues/23)
 
 
-**5、Node**(writing)
+**5、Node**
 
 - [Assert - 断言]()
 - [Buffer - 缓冲器]()
@@ -80,7 +80,7 @@
 - [util-实用工具]()
 - [zlib - 压缩]()
 
-**6、设计模式**
+**6、设计模式**(writing)
 
 - [单例模式]()
 - [策略模式]()
